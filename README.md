@@ -9,3 +9,6 @@ This project is to create a bluetooth radio-controlled car. The PCB for the vehi
 
 ##### Remote:
 ![Remote](Complete-Remote.JPG)
+
+##### Final:
+![Vehicle](bt_rc_car.JPG)
